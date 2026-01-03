@@ -1,0 +1,2 @@
+# Superstore_data_analysis
+Menganalisis penjualan superstore menggunakan excel
